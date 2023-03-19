@@ -25,5 +25,5 @@
 // Primitive
 
 // string
-const name = "Dan Abramov";
+const name = "Dan  Abramov";
 console.log(typeof name);
