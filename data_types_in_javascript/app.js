@@ -20,3 +20,10 @@
 // indefined;
 // symbol 'es6'
 // BigInt
+
+// -----------------------
+// Primitive
+
+// string
+const name = "Dan Abramov";
+console.log(typeof name);
